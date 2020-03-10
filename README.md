@@ -9,7 +9,7 @@ Theme is inspired by colors from the [Nord colorscheme](https://www.nordtheme.co
 Open "Extensions" in Standard Notes and click "Import Extension". Paste the following URL and press enter:
 
 ```
-https://github.com/lokesh-krishna/sn-theme-nord/ext.json
+https://listed.to/p/P3JVT9OXT4
 ```
 =======
 # sn-theme-nord
