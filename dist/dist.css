@@ -1,15 +1,15 @@
 :root {
-  --background-1: #262626;
-  --background-2: #191919;
-  --foreground-1: #e6e6e6;
-  --foreground-2: #a6a6a6;
-  --foreground-3: #e6e6e6;
-  --highlight-color: #00a82e;
-  --neutral-color: #d4d4d4;
-  --danger-color: #cc241d;
-  --success-color: #0081c2;
-  --warning-color: #d65d0e;
-  --border-color: #050606;
+  --background-1: #3B4252;
+  --background-2: #2E3440;
+  --foreground-1: #ECEFF4;
+  --foreground-2: #E5E9F0;
+  --foreground-3: #ECEFF4;
+  --highlight-color: #88C0D0;
+  --neutral-color: #D8DEE9;
+  --danger-color: #BF616A;
+  --success-color: #8FBCBB;
+  --warning-color: #D08770;
+  --border-color: #434C5E;
   /* Footer */
   --footer-bar-border-top-color: 0;
   --sn-stylekit-info-color: var(--highlight-color);
@@ -52,6 +52,9 @@
   /* Workaround for subitems in Markdown lists not colored using StyleKit */
   /* Progress bars */
   /* Text selection color */
+  /* Fonts */
+  --sn-stylekit-monospace-font: "JetBrains Mono", courier, monospace;
+  --sn-stylekit-sans-serif-font: "Inter", sans-serif;
   /* Use lighter blue for Minimal Markdown Editor sublists and other CodeMirror elements */
 }
 :root .sk-app-bar {
@@ -168,7 +171,7 @@
   color: var(--foreground-1) !important;
 }
 :root .cm-s-default .cm-variable-3 {
-  color: #7e9a8f !important;
+  color: #A3BE8C !important;
 }
 :root #editor-menu-bar > div > div.sk-app-bar-item.selected > div.sk-menu-panel.dropdown-menu.ng-scope > div:nth-child(1) > menu-row:nth-child(7) > div > div > div > div > div {
   color: var(--danger-color);

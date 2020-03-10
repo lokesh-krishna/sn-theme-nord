@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-evernote-dark",
+  "name": "sn-theme-nord",
   "version": "1.0",
   "main": "dist/dist.css",
   "sn": {
@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ilindaniel/sn-theme-evernote-dark.git"
+    "url": "git://github.com/lokesh-krishna/sn-theme-nord.git"
   }
 }

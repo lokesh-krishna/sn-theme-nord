@@ -1,20 +1,20 @@
   {
-    "identifier": "io.github.ilindaniel.sn-theme-evernote-dark",
-    "name": "Evernote-style Dark Theme",
+    "identifier": "com.github.lokesh-krishna.sn-theme-nord",
+    "name": "Nord Dark Theme",
     "content_type": "SN|Theme",
     "area": "themes",
-    "description": "Evernote inspired dark theme for Standard Notes",
+    "description": "A Nord colorscheme based theme for Standard Notes",
     "version": "v1.0",
-    "url": "https://danielilin.de/github/sn-theme-evernote-dark/dist/dist.css",
-    "download_url": "https://github.com/ilindaniel/sn-theme-evernote-dark/archive/master.zip",
-    "marketing_url": "https://github.com/ilindaniel/sn-theme-evernote-dark",
-    "latest_url": "https://danielilin.de/github/sn-theme-evernote-dark/ext.json",
-    "thumbnail_url": "https://raw.githubusercontent.com/ilindaniel/sn-theme-evernote-dark/master/preview.png",
+    "url": "https://github.com/lokesh-krishna/sn-theme-nord/dist/dist.css",
+    "download_url": "https://github.com/lokesh-krishna/sn-theme-nord/archive/master.zip",
+    "marketing_url": "https://github.com/lokesh-krishna/sn-theme-nord",
+    "latest_url": "https://github.com/lokesh-krishna/sn-theme-nord/ext.json",
+    "thumbnail_url": "https://raw.githubusercontent.com/lokesh-krishna/sn-theme-nord/master/preview.png",
     "dock_icon": {
       "type": "circle",
-      "background_color": "#00a82e",
-      "foreground_color": "#0081c2",
-      "border_color": "#00a82e"
+      "background_color": "#88C0D0",
+      "foreground_color": "#5E81AC",
+      "border_color": "#88C0D0"
     },
     "statusBar": "dark-content"
   }
