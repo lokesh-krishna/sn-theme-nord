@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A Nord colorscheme based theme for Standard Notes
 
 [Standard Notes](https://standardnotes.org/) is a privacy-focused notebook for all platforms.<br><br>
@@ -11,7 +10,3 @@ Open "Extensions" in Standard Notes and click "Import Extension". Paste the foll
 ```
 https://listed.to/p/P3JVT9OXT4
 ```
-=======
-# sn-theme-nord
-A Nord styled theme for Standard Notes
->>>>>>> 4e1fd858bc7f67e6001a07ab6f66be138bda3d13
