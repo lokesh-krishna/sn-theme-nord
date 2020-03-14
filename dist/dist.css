@@ -53,7 +53,7 @@
   /* Progress bars */
   /* Text selection color */
   /* Fonts */
-  --sn-stylekit-base-font-size: 12px;
+/*  --sn-stylekit-base-font-size: 12px;
   --sn-stylekit-monospace-font: "JetBrains Mono", courier, monospace;
   --sn-stylekit-sans-serif-font: "Inter", sans-serif;
   /* Use lighter blue for Minimal Markdown Editor sublists and other CodeMirror elements */
