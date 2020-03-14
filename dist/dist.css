@@ -11,7 +11,7 @@
   --warning-color: #D08770;
   --border-color: #2E3440;
   /* Footer */
-  --footer-bar-border-top-color: 0;
+/*  --footer-bar-border-top-color: 0; */
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
@@ -53,7 +53,7 @@
   /* Progress bars */
   /* Text selection color */
   /* Fonts */
-/*  --sn-stylekit-base-font-size: 12px;
+/*  --sn-stylekit-base-font-size: 12px; */
   --sn-stylekit-monospace-font: "JetBrains Mono", courier, monospace;
   --sn-stylekit-sans-serif-font: "Inter", sans-serif;
   /* Use lighter blue for Minimal Markdown Editor sublists and other CodeMirror elements */
@@ -72,7 +72,7 @@
 }
 :root #notes-column .note,
 :root #notes-column .tag {
-  opacity: 1 !important;
+/*  opacity: 1 !important; */
   background-color: var(--background-2) !important;
   color: var(--foreground-3) !important;
 }
@@ -82,9 +82,9 @@
 :root #notes-column .note .plain-preview {
   color: var(--foreground-3) !important;
 }
-:root #notes-column .note progress {
+/*:root #notes-column .note progress {
   border: 1px solid var(--border-color) !important;
-}
+}*/
 :root #notes-column .note .note-flags .flag.info,
 :root .notes .note .note-flags .flag.info {
   background-color: var(--background-1) !important;
@@ -140,7 +140,7 @@
 :root #notes-column .note .tags-string > .faded,
 :root #notes-column .note .note-flag,
 :root .editor-tags input {
-  opacity: 1 !important;
+  /*opacity: 1 !important;*/
   color: var(--neutral-color) !important;
 }
 :root .cm-s-default .cm-variable-3,
